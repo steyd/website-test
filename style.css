@@ -1,0 +1,16 @@
+.titulo {
+    font-size: 30px;
+    text-align: center;
+}
+
+#informacion {
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+    line-height: 175%;
+}
+
+#proctor {
+    width: 25%;
+}
+
